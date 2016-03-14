@@ -21,5 +21,5 @@ Pateikiama bendra instrukcija ir nuorodos reikalingos parsisiųsti reikiamą pro
 > 'php -r "readfile('https://symfony.com/installer');" > symfony' 
 > - Terminale įvesdami komandą sukuriame naują projektą norimu pavadinimu, pvz "workshop":
 > 'php symfony new workshop'
-> Atidarius naršyklę adresu http://localhost/workshop/web/ turite matyti standartinį symfony langą.
+> - Atidarius naršyklę adresu http://localhost/workshop/web/ turite matyti standartinį symfony langą.
 
