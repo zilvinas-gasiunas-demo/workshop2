@@ -22,3 +22,4 @@ Pateikiama bendra instrukcija ir nuorodos reikalingos parsisiųsti reikiamą pro
 > - Terminale įvesdami komandą sukuriame naują projektą norimu pavadinimu, pvz "workshop":
 > 'php symfony new workshop'
 > Atidarius naršyklę adresu http://localhost/workshop/web/ turite matyti standartinį symfony langą.
+
